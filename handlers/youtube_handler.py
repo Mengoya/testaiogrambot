@@ -14,6 +14,8 @@ def is_youtube_url(text: str) -> bool:
 
 @router.message(F.text)
 async def handle_youtube_link(message: Message):
+    print('Checking for YouTube link...')
+    print(message.text)
     if not is_youtube_url(message.text):
         return
     await message.answer('YouTube link detected!')

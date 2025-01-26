@@ -1,0 +1,11 @@
+[33mcommit a66ab1491712b855fe9c32799d84599ea669f9f2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Marat Akbay <maratakbaj@gmail.com>
+Date:   Sun Jan 26 18:23:38 2025 +0000
+
+    Removed yt-dlp
+
+[33mcommit 9f45d10c008cf5f0a581515bd974008f0f044955[m
+Author: Marat Akbay <maratakbaj@gmail.com>
+Date:   Sun Jan 26 18:21:01 2025 +0000
+
+    First working version
